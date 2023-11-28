@@ -1,2 +1,3 @@
-# ubuntutraining
-my first repository on ubuntutraing
+# Ubuntu GitHub Training Course 
+
+my first repository in the ubuntutraing
